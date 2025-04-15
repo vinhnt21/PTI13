@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Mystical Adventure",
+    "price": 19.99,
+    "type": "Adventure",
+    "description": "Embark on a journey through enchanted lands and solve ancient puzzles.",
+    "author": "DreamForge Studios",
+    "rating": 4.7
+  },
+  {
+    "name": "Galactic Conquest",
+    "price": 29.99,
+    "type": "Strategy",
+    "description": "Command your fleet and conquer galaxies in this epic space strategy game.",
+    "author": "Starlight Interactive",
+    "rating": 4.5
+  },
+  {
+    "name": "Shadowbound Chronicles",
+    "price": 0.0,
+    "type": "RPG",
+    "description": "Unveil the secrets of a dark fantasy world in this free-to-play RPG.",
+    "author": "Nightfall Games",
+    "rating": 4.3
+  },
+  {
+    "name": "Speed Racer Pro",
+    "price": 9.99,
+    "type": "Racing",
+    "description": "Race against the best drivers in high-speed competitions across stunning tracks.",
+    "author": "Velocity Motors",
+    "rating": 4.6
+  },
+  {
+    "name": "Pixel Puzzler",
+    "price": 4.99,
+    "type": "Puzzle",
+    "description": "Challenge your brain with hundreds of unique pixel-based puzzles.",
+    "author": "Brainwave Labs",
+    "rating": 4.8
+  },
+  {
+    "name": "Free Fire",
+    "price": 0,
+    "type": "Battle Royale",
+    "description": "Free Fire is a battle royale game where players fight to be the last one standing.",
+    "author": "Garena",
+    "rating": 4.5
+  },
+  {
+    "name": "Free Fire",
+    "price": 0,
+    "type": "Battle Royale",
+    "description": "Free Fire is a battle royale game where players fight to be the last one standing.",
+    "author": "Garena",
+    "rating": 4.5
+  },
+  {
+    "name": "Free Fire",
+    "price": 0,
+    "type": "Battle Royale",
+    "description": "Free Fire is a battle royale game where players fight to be the last one standing.",
+    "author": "Garena",
+    "rating": 4.5
+  }
+]
